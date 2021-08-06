@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mp-loading-screen/static/css/main.e0093c0d.chunk.css",
+    "main.js": "/mp-loading-screen/static/js/main.174870b4.chunk.js",
+    "main.js.map": "/mp-loading-screen/static/js/main.174870b4.chunk.js.map",
+    "runtime-main.js": "/mp-loading-screen/static/js/runtime-main.1b5628b1.js",
+    "runtime-main.js.map": "/mp-loading-screen/static/js/runtime-main.1b5628b1.js.map",
+    "static/js/2.a15fd707.chunk.js": "/mp-loading-screen/static/js/2.a15fd707.chunk.js",
+    "static/js/2.a15fd707.chunk.js.map": "/mp-loading-screen/static/js/2.a15fd707.chunk.js.map",
+    "static/js/3.1fb2dc18.chunk.js": "/mp-loading-screen/static/js/3.1fb2dc18.chunk.js",
+    "static/js/3.1fb2dc18.chunk.js.map": "/mp-loading-screen/static/js/3.1fb2dc18.chunk.js.map",
+    "index.html": "/mp-loading-screen/index.html",
+    "static/css/main.e0093c0d.chunk.css.map": "/mp-loading-screen/static/css/main.e0093c0d.chunk.css.map",
+    "static/js/2.a15fd707.chunk.js.LICENSE.txt": "/mp-loading-screen/static/js/2.a15fd707.chunk.js.LICENSE.txt",
+    "static/media/mpicon.fcb306cd.svg": "/mp-loading-screen/static/media/mpicon.fcb306cd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b5628b1.js",
+    "static/js/2.a15fd707.chunk.js",
+    "static/css/main.e0093c0d.chunk.css",
+    "static/js/main.174870b4.chunk.js"
+  ]
+}
