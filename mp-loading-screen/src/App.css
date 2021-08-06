@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  background-image: linear-gradient(to bottom right, #151371, #ff00b8, #ffc700) !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  font-size: xx-large;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: aliceblue;
+}
